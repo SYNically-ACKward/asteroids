@@ -12,10 +12,10 @@ To run, follow the instructions below:
 
 
 Controls: 
-W - Move Forward 
-A - Move Backward
-S - Rotate Left
-D - Rotate Right
-SPACE - Shoot
+* W - Move Forward 
+* A - Move Backward
+* S - Rotate Left
+* D - Rotate Right
+* SPACE - Shoot
 
 When you collide with an asteroid the console will print "Game Over" and exit the game. 
