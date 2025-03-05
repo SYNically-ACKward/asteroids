@@ -13,8 +13,8 @@ To run, follow the instructions below:
 
 Controls: 
 * W - Move Forward 
-* A - Move Backward
-* S - Rotate Left
+* A - Rotate Left
+* S - Move Backward
 * D - Rotate Right
 * SPACE - Shoot
 
